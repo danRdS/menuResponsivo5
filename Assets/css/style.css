@@ -105,6 +105,7 @@ header{
 
 .logo{
     display: flex;
+    align-items: center;
 }
 .logo h1{
     font-size: 30pt;
